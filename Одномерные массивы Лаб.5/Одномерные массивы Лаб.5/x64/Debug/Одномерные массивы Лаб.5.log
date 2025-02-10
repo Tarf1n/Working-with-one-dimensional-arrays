@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\timam\source\repos\Одномерные массивы Лаб.5\Одномерные массивы Лаб.5\Source.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\timam\source\repos\Одномерные массивы Лаб.5\Одномерные массивы Лаб.5\Source.cpp(73,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Одномерные массивы Лаб.5.vcxproj -> C:\Users\timam\source\repos\Одномерные массивы Лаб.5\x64\Debug\Одномерные массивы Лаб.5.exe
